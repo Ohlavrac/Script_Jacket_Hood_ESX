@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Ohlavrac'
-description 'seila'
-version '1.0.0'
+description 'Script simples que implementa uma funcionalidade de adicionar e remover capuz de algumas jaquetas'
+version '2.0.0'
 
 client_script 'client.lua'
